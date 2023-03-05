@@ -1,0 +1,10 @@
+[package]
+name = "sum_variables"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+
+[[bin]]
+name = "sum_variables"
+path = "/app/sum_variables.rs"
